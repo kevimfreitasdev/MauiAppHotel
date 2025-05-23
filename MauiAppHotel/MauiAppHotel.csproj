@@ -78,12 +78,14 @@
 	  <MauiImage Remove="Resources\Images\bgapp.png" />
 	  <MauiImage Remove="Resources\Images\bgapp2.png" />
 	  <MauiImage Remove="Resources\Images\bgapppp.png" />
+	  <MauiImage Remove="Resources\Images\bgg.png" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\bgapp.png" />
 	  <None Remove="Resources\Images\bgapp2.png" />
 	  <None Remove="Resources\Images\bgapppp.png" />
+	  <None Remove="Resources\Images\bgg.png" />
 	</ItemGroup>
 
 	<ItemGroup>

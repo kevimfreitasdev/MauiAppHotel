@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiAppHotel.Views.dev"
              Title="dev"
-             BackgroundImageSource="bg.png">
+             BackgroundImageSource="a.jpg">
     <VerticalStackLayout VerticalOptions="CenterAndExpand"
                          Padding="10"                         >
 
@@ -12,7 +12,7 @@
                FontSize="30"
                Padding="10"
                FontFamily="Codystar"
-               TextColor="#43d7f5">
+               TextColor="#A77E30">
         </Label>
 
         <Frame Margin="10"
@@ -50,7 +50,7 @@
         </Frame>
 
         <Frame Margin="10"
-               BackgroundColor="#36038B"
+               BackgroundColor="#A77E30"
                BorderColor="Transparent">
             <HorizontalStackLayout>
                 <Label Text="Valor Total: "/>
@@ -63,7 +63,7 @@
                 Margin="10"
                 Padding="10"
         Clicked="Button_Clicked"
-        BackgroundColor="#9200d0"
+        BackgroundColor="#A77E30"
                 TextColor="#fff"
                 HorizontalOptions="Center"/>
 

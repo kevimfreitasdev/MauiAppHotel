@@ -4,7 +4,7 @@
              x:Class="MauiAppHotel.Views.ContratacaoHospedagem"
              Title="ContratacaoHospedagem"
              NavigationPage.HasNavigationBar="False"
-             BackgroundImageSource="bg.png">
+             BackgroundImageSource="a.jpg">
 
     <VerticalStackLayout VerticalOptions="CenterAndExpand"
                          Padding="10"
@@ -15,7 +15,7 @@
                Padding="10"
                FontFamily="Codystar"
                FontSize="32"
-               TextColor="#43d7f5"/>
+               TextColor="#A77E30"/>
         
 
         <Frame BackgroundColor="Transparent"
@@ -86,7 +86,7 @@
 
                 <Button Text="Avançar" 
                         Clicked="Button_Clicked"
-                        BackgroundColor="#9200d0"
+                        BackgroundColor="#A77E30"
                         TextColor="#fff"
                         HorizontalOptions="Center"/>
 
